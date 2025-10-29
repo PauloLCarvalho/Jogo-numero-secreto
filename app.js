@@ -17,7 +17,7 @@ function exibirTextoNaTela(tag, texto){
 }
 function exibirMensInicial(){ 
     exibirTextoNaTela('h1','jogo do número secreto');
-    exibirTextoNaTela('p','Escolha um número entre 1 e 51');
+    exibirTextoNaTela('p','Escolha um número entre 1 e 50');
 }
 exibirMensInicial();
 
